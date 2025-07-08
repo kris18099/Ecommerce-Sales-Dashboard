@@ -28,7 +28,7 @@ This kind of time-based analysis helps in identifying seasonal trends and planni
 The "Sum of Amount by State" chart indicates Maharashtra as the top contributor to sales, followed by Madhya Pradesh. Smaller sales were recorded in Uttar Pradesh and Delhi. This can guide future targeted campaigns or delivery expansions in high-performing states.
 
 4. Customer-Based Analysis
-The "Sum of Amount by Customer Name" bar graph shows individual customer contributions, with "Harivansh" being the highest spender, followed by "Madhavi" and "Madan Mohan." This data helps in identifying loyal customers who could be offered exclusive deals or loyalty programs.
+The "Sum of Amount by Customer Name" bar graph shows individual customer contributions, with "Harivansh" being the highest spender, followed by "Madhav" and "Madan Mohan." This data helps in identifying loyal customers who could be offered exclusive deals or loyalty programs.
 
 5. Payment Mode Preferences
 The donut chart for "Sum of Quantity by Payment Mode" reveals:
