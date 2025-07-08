@@ -59,3 +59,5 @@ Understanding sub-category profit margins can help in inventory planning and mar
 Creating this dashboard taught me the importance of not just visualizing data, but telling a story through it. I explored DAX for creating measures like total profit, average order value, and custom calculations. Additionally, I learned how different visuals can serve different purposes—whether it’s spotting trends, comparing segments, or understanding customer behavior.
 
 This project has been a great starting point in my data journey, and I look forward to building more dashboards with deeper insights and interactivity.
+![image](https://github.com/user-attachments/assets/8c9c169b-982d-464a-82bc-07019bfc8a14)
+
